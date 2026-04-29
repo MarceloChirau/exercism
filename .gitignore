@@ -1,0 +1,14 @@
+
+node_modules
+.DS_Store
+.vscode/
+dist/
+build/
+*.tsbuildinfo
+coverage/
+.eslintcache
+.pnp.*
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.yarn/build-state.yml
